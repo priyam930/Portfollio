@@ -59,7 +59,7 @@ $(document).ready(function() {
 document.addEventListener('visibilitychange',
     function() {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Bhavishya Sharma";
+            document.title = "Portfolio | Priyam Sanodiya";
             $("#favicon").attr("href", "assets/images/favicon.png");
         } else {
             document.title = "Come Back To Portfolio";

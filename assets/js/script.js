@@ -59,10 +59,10 @@ $(document).ready(function() {
 document.addEventListener('visibilitychange',
     function() {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Priyam Sanodiya";
+            document.title = "My Portfolio";
             $("#favicon").attr("href", "assets/images/favicon.png");
         } else {
-            document.title = "Come Back To Portfolio";
+            document.title = "Come Back To My Portfolio";
             $("#favicon").attr("href", "assets/images/favhand.png");
         }
     });
@@ -70,7 +70,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["MlOps Engineer", "DevOps Engineer"],
+    strings: ["Software Developer", "Web Developer", "Tech Enthusiast", "Problem Solver"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,

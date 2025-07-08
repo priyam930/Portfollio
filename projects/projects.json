@@ -1,65 +1,62 @@
 [
-
     {
-        "name": "Docker Controller",
-        "desc": "Docker Controller program with a Graphical User Interface (GUI) built using Flask API to create a web app. It allows users to manage Docker containers, images, volumes, and networks.",
-        "image": "./img/dockercontroller.png",
-        "category": "Python",
+        "name": "Portfolio Website",
+        "desc": "A responsive personal portfolio website built with HTML, CSS, and JavaScript. Features smooth animations, modern design, and mobile-first approach.",
+        "image": "portfolio",
+        "category": "Web Development",
         "links": {
-            "view": "https://github.com/priyam930/Docker-Automation",
-            "code": "https://github.com/priyam930/Docker-Automation"
-        }
-    },
-    
-    {
-        "name": "Car Price Prediction",
-        "desc": "Developed a machine learning model using linear regression to predict car prices based on key attributes, integrated into a Flask-based web app for user-friendly access.",
-        "image": "./img/car.png",
-        "category": "Machine Learning",
-        "links": {
-            "view": "https://github.com/priyam930/car_price_predictor",
-            "code": "https://github.com/priyam930/car_price_predictor"
+            "view": "#",
+            "code": "#"
         }
     },
     {
-        "name": "AWS EC2 Instance Management using Hand Gestures",
-        "desc": "This project Uses OpenCV and cvzone's HandTrackingModule to control EC2 instances via hand gestures. ",
-        "image": "./img/awsmanager.jpg",
-        "category": "Python",
+        "name": "Task Management App",
+        "desc": "A full-stack task management application built with React and Node.js. Features user authentication, CRUD operations, and real-time updates.",
+        "image": "taskapp",
+        "category": "Full Stack",
         "links": {
-            "view": "https://github.com/priyam930/Ec2-Manage-Hand",
-            "code": "https://github.com/priyam930/Ec2-Manage-Hand"
+            "view": "#",
+            "code": "#"
         }
     },
     {
-        "name": "Distance of Face from Camera",
-        "desc": "It demonstrates face detection and calculating the distance of a detected face from the camera.",
-        "image": "./img/distancefromcamera.jpg",
-        "category": "Python",
+        "name": "Weather Dashboard",
+        "desc": "A responsive weather application that displays current weather and forecasts using OpenWeatherMap API. Built with vanilla JavaScript.",
+        "image": "weather",
+        "category": "JavaScript",
         "links": {
-            "view": "https://github.com/priyam930/Face-Distance",
-            "code": "https://github.com/priyam930/Face-Distance"
-        }
-    },
-
-    {
-        "name": "Flipkart Product Scraping",
-        "desc": "It utilizes the requests library for making HTTP requests and the BeautifulSoup library for parsing HTML content. ",
-        "image": "./img/scapingtool.jpg",
-        "category": "Python",
-        "links": {
-            "view": "https://github.com/priyam930/Web-Scrapping-of-Flipkart-Website-we",
-            "code": "https://github.com/priyam930/Web-Scrapping-of-Flipkart-Website-we"
+            "view": "#",
+            "code": "#"
         }
     },
     {
-        "name": "Flask  Dockerfile",
-        "desc": "This Dockerfile sets up a Flask web app server on redhat/ubi8 .",
-        "image": "./img/flask.png",
-        "category": "Basic Web",
+        "name": "E-commerce Website",
+        "desc": "A modern e-commerce platform with shopping cart functionality, user authentication, and payment integration using Stripe API.",
+        "image": "ecommerce",
+        "category": "Full Stack",
         "links": {
-            "view": "https://github.com/priyam930/Flask-Docker-Project",
-            "code": "https://github.com/priyam930/Flask-Docker-Project"
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Blog Platform",
+        "desc": "A content management system for blogging with rich text editor, user roles, and comment system. Built with React and Express.js.",
+        "image": "blog",
+        "category": "Full Stack",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Calculator App",
+        "desc": "A scientific calculator web application with advanced mathematical functions and a clean, intuitive user interface.",
+        "image": "calculator",
+        "category": "JavaScript",
+        "links": {
+            "view": "#",
+            "code": "#"
         }
     }
 ]
